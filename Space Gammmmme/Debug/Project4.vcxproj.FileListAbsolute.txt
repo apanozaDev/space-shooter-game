@@ -1,0 +1,10 @@
+C:\Users\psg_g\source\repos\ProjectTetris1\Debug\Project4.exe
+C:\Users\psg_g\source\repos\ProjectTetris1\Debug\Project4.pdb
+\\GAMER\Users\psg_g\source\repos\ProjectTetris1\Debug\Project4.exe
+\\GAMER\Users\psg_g\source\repos\ProjectTetris1\Debug\Project4.pdb
+\\GAMER\Users\psg_g\source\repos\Dungeon Keepers\Debug\Project4.exe
+\\GAMER\Users\psg_g\source\repos\Dungeon Keepers\Debug\Project4.pdb
+\\GAMER\Users\psg_g\source\repos\SFML_RPG\Debug\Project4.exe
+\\GAMER\Users\psg_g\source\repos\SFML_RPG\Debug\Project4.pdb
+C:\Users\psg_g\source\repos\Space Gammmmme\Debug\Project4.exe
+C:\Users\psg_g\source\repos\Space Gammmmme\Debug\Project4.pdb
